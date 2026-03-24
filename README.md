@@ -1,10 +1,10 @@
 ## 1. What The App Does:
 
-This is a simple application that displays a counter that usings ViewModel to store and increment the state. 
+This is a simple application that displays a counter that usings rememberSaveable to store and buttons to increment/reset the state. 
 
 ## 2. Screenshot:
 
-<img width="400" height="750" alt="image" src="https://github.com/user-attachments/assets/b6abe5d4-f3af-4fef-be99-f900ca975ae1"/>
+<img width="400" height="750" alt="image" src="https://github.com/user-attachments/assets/417590cb-83b8-4bb3-a624-661600ab2b06" />
 
 ## 3. Device/Emulator/SDK version
 
@@ -14,4 +14,4 @@ SDK Version: 26 (minSdk) 36 (compileSdk)
 
 ## 4. AI Usage
 
-I used the built in AI tool for Android Studio which is works similar to copilot except the Google version. This tool was needed to aid in my build issues. When I finished coding, I had issues with my viewModel and when I tried running it I got this error "Unresolved reference 'viewModel'.". So the IDE asked if I would like to ask AI for help and I pressed it and it told me to add a line in my build.gradle.kts file as well as my libs.version file. Those lines helped my code run. 
+I did not use AI for this problem. 
